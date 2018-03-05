@@ -1,10 +1,9 @@
-## Based on this:
+<h1>Based on:</h1>
 
-<p align="center">
-  <a href="https://github.com/FortAwesome/Font-Awesome">
-    Font-Awesome
-  </a>
+<a href="https://github.com/FortAwesome/Font-Awesome">
+  <h2>Font-Awesome</h2>
+</a>
 
-## Demo in:
+<h1>Demo:</h1>
 
-<a href="https://argenisosorio.github.io/font-awesome-examples">https://argenisosorio.github.io/font-awesome-examples</a>
+<a href="https://argenisosorio.github.io/font-awesome-examples/">https://argenisosorio.github.io/font-awesome-examples/</a>
